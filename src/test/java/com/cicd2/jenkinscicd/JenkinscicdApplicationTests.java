@@ -15,6 +15,7 @@ class JenkinscicdApplicationTests {
 	@Test
 	void contextLoads() {
 		logger.info("test case executing");
+		logger.info("test case executing2");
 		assertEquals(true,true);
 	}
 
