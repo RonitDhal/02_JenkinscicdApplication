@@ -26,6 +26,8 @@ public class JenkinscicdApplication {
 
 		SpringApplication.run(JenkinscicdApplication.class, args);
 
+       System.out.println("application");
+
 
 	}
 
